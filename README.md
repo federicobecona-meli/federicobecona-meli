@@ -2,6 +2,18 @@
 
 This is the public GitHub account of [@federicobecona](https://github.com/federicobecona) for the [@mercadolibre](https://mercadolibre.com/) organization.
 
+### You can reach me at:
+#### Corporate:
+📧 Email: federico.becona@mercadolibre.com
+#### Personal:
+📧 Email: federicobecona@gmail.com  
+👤 Linkedin: https://www.linkedin.com/in/federicobecona/
+
+
+
+
+
+
 <!--
 **federicobecona-meli/federicobecona-meli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
